@@ -1,5 +1,5 @@
     <!-- Start Preloader Section -->
-
+    
 
     <!-- Start Navbar Section -->
     <div class="navbar-section">
@@ -49,4 +49,4 @@
             </div>
         </div>
     </div>
-    <!-- End Navbar Section -->
+      <x-header/>

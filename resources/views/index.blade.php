@@ -9,7 +9,7 @@
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
     <!-- Title -->
-    <title>Andalus Softwares - IT Solutions & Business Services Company</title>
+    <title>Andalus Softwares - IT Solutions & Business Services</title>
     <!-- Google Fonts -->
     <link
       href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;600;700;800&amp;display=swap"
@@ -46,16 +46,17 @@
   </head>
 
   <body>
-  
-                <!-- Start Preloader Section -->
+    <!-- Start Preloader Section -->
     <div class="preloader">
-        <div class="loader">
-            <div class="shadow"></div>
-            <div class="box"></div>
-        </div>
+      <div class="loader">
+        <div class="shadow"></div>
+        <div class="box"></div>
+      </div>
     </div>
-    <!-- End Navbar Section -->
+    <!-- End Preloader Section -->
+    <x-header/>
 
+     
     <!-- Start Home Section -->
     <div class="home-section">
       <div class="d-table">

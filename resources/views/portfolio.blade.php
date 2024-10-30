@@ -116,7 +116,7 @@
         </div>
       </div>
     </div>
-    <!-- End Navbar Section -->
+      <x-header/>
 
     <!-- Start Page Title Section -->
     <div class="page-title-area">
