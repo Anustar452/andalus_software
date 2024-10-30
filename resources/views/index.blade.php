@@ -9,7 +9,7 @@
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
     <!-- Title -->
-    <title>Andalus Softwares - IT Solutions & Business Services</title>
+    <title>Andalus Softwares - IT Solutions & Business Services Company</title>
     <!-- Google Fonts -->
     <link
       href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;600;700;800&amp;display=swap"
@@ -46,75 +46,13 @@
   </head>
 
   <body>
-    <!-- Start Preloader Section -->
+  
+                <!-- Start Preloader Section -->
     <div class="preloader">
-      <div class="loader">
-        <div class="shadow"></div>
-        <div class="box"></div>
-      </div>
-    </div>
-    <!-- End Preloader Section -->
-
-    <!-- Start Navbar Section -->
-    <div class="navbar-section">
-      <div class="techvio-responsive-nav">
-        <div class="container">
-          <div class="techvio-responsive-menu">
-            <div class="logo">
-              <a href="index.html">
-                <img src="assets/img/logo.png" class="white-logo" alt="logo" />
-                <img
-                  src="assets/img/andalus softwares logo 171X35.png"
-                  class="black-logo"
-                  alt="logo"
-                />
-              </a>
-            </div>
-          </div>
+        <div class="loader">
+            <div class="shadow"></div>
+            <div class="box"></div>
         </div>
-      </div>
-      <div class="techvio-nav">
-        <div class="container">
-          <nav class="navbar navbar-expand-md navbar-light">
-            <a class="navbar-brand" href="index.html">
-              <img src="assets/img/logo.png" class="white-logo" alt="logo" />
-              <img
-                src="assets/img/andalus softwares logo 171X35.png"
-                class="black-logo"
-                alt="logo"
-              />
-            </a>
-            <div
-              class="collapse navbar-collapse mean-menu"
-              id="navbarSupportedContent"
-            >
-              <ul class="navbar-nav">
-                <li class="nav-item">
-                  <a href="index.html" class="nav-link">Home </a>
-                </li>
-                <li class="nav-item">
-                  <a href="about.html" class="nav-link">About Us</a>
-                </li>
-                <li class="nav-item">
-                  <a href="services.html" class="nav-link">Services</a>
-                </li>
-
-                <li class="nav-item">
-                  <a href="blog.html" class="nav-link">Blog </a>
-                </li>
-                <li class="nav-item">
-                  <a href="contact.html" class="nav-link">Contact</a>
-                </li>
-              </ul>
-              <div class="other-option">
-                <a class="default-btn" href="mailto:demo@example.com"
-                  >Get It Support <span></span
-                ></a>
-              </div>
-            </div>
-          </nav>
-        </div>
-      </div>
     </div>
     <!-- End Navbar Section -->
 
