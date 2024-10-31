@@ -2,7 +2,7 @@
 <html lang="zxx">
 
 
-<!-- Mirrored from cutesolution.com/html/techvio/services-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Mar 2024 09:35:05 GMT -->
+
 <head>
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
@@ -49,141 +49,8 @@
 	</div>
 	<!-- End Preloader Section -->
 	
-	<!-- Start Navbar Section -->
-	<div class="navbar-section">
-		<div class="techvio-responsive-nav">
-			<div class="container">
-				<div class="techvio-responsive-menu">
-					<div class="logo">
-						<a href="/">
-							<img src="assets/img/logo.png" class="white-logo" alt="logo">
-							<img src="assets/img/logo-black.png" class="black-logo" alt="logo">
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="techvio-nav">
-			<div class="container">
-				<nav class="navbar navbar-expand-md navbar-light">
-					<a class="navbar-brand" href="/">
-						<img src="assets/img/logo.png" class="white-logo" alt="logo">
-						<img src="assets/img/logo-black.png" class="black-logo" alt="logo">
-					</a>
-					<div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
-						<ul class="navbar-nav">
-							<li class="nav-item"> 
-								<a href="#" class="nav-link">Home <i class="fas fa-chevron-down"></i></a>
-								<ul class="dropdown-menu">
-									<li class="nav-item"> 
-										<a href="/" class="nav-link">Home 1</a>
-									</li>
-									<li class="nav-item"> 
-										<a href="/" class="nav-link">Home 2</a>
-									</li>
-									<li class="nav-item"> 
-										<a href="/" class="nav-link">Home 3</a>
-									</li>
-									<li class="nav-item"> 
-										<a href="index-5.html" class="nav-link">Home 4</a>
-									</li>
-									<li class="nav-item"> 
-										<a href="/" class="nav-link">Home 5</a>
-									</li>
-									<li class="nav-item"> 
-										<a href="/" class="nav-link">Home 6</a>
-									</li>
-								</ul>
-							</li>
-							<li class="nav-item">
-								<a href="about" class="nav-link">About Us</a>
-							</li>
-							<li class="nav-item">
-								<a href="#" class="nav-link">Services <i class="fas fa-chevron-down"></i></a>
-								<ul class="dropdown-menu">
-									<li class="nav-item"> 
-										<a href="services" class="nav-link">Services 1</a>
-									</li>
-									<li class="nav-item"> 
-										<a href="services-2.html" class="nav-link">Services 2</a>
-									</li>
-									<li class="nav-item"> 
-										<a href="services-3.html" class="nav-link">Services 3</a>
-									</li>
-									<li class="nav-item"> 
-										<a href="single-services" class="nav-link">Services Details</a>
-									</li>
-								</ul>
-							</li>
-							<li class="nav-item">
-								<a href="#" class="nav-link">Portfolio <i class="fas fa-chevron-down"></i></a>
-								<ul class="dropdown-menu">
-									<li class="nav-item">
-										<a href="portfolio.html" class="nav-link">Portfolio</a>
-									</li>
-									<li class="nav-item">
-										<a href="single-portfolio.html" class="nav-link">Portfolio Details</a>
-									</li>
-								</ul>
-							</li>
-							<li class="nav-item"> 
-								<a href="#" class="nav-link">Pages <i class="fas fa-chevron-down"></i></a>
-								<ul class="dropdown-menu">
-									<li class="nav-item">
-										<a href="about" class="nav-link">About Us</a>
-									</li>
-									<li class="nav-item">
-										<a href="team.html" class="nav-link">Team</a>
-									</li>
-									<li class="nav-item">
-										<a href="pricing.html" class="nav-link">Pricing</a>
-									</li>
-									<li class="nav-item">
-										<a href="error-404.html" class="nav-link">404 Error</a>
-									</li>
-									<li class="nav-item">
-										<a href="faq.html" class="nav-link">FAQ</a>
-									</li>
-									<li class="nav-item">
-										<a href="coming-soon.html" class="nav-link">Coming Soon</a>
-									</li>
-									<li class="nav-item">
-										<a href="terms-condition.html" class="nav-link">Terms & Conditions</a>
-									</li>
-									<li class="nav-item">
-										<a href="privacy-policy.html" class="nav-link">Privacy Policy</a>
-									</li>
-								</ul>
-							</li>
-							<li class="nav-item">
-								<a href="#" class="nav-link">Blog <i class="fas fa-chevron-down"></i></a>
-								<ul class="dropdown-menu">
-									<li class="nav-item">
-										<a href="blog" class="nav-link">Blog Grid</a>
-									</li>
-									<li class="nav-item">
-										<a href="blog-2.html" class="nav-link">Blog Right Sidebar</a>
-									</li>
-									<li class="nav-item">
-										<a href="single-blog" class="nav-link">Blog Details</a>
-									</li>
-								</ul>
-							</li>
-							<li class="nav-item">
-								<a href="contact" class="nav-link">Contact</a>
-							</li>
-						</ul>
-						<div class="other-option">
-							<a class="default-btn" href="mailto:demo@example.com">Get It Support <span></span></a>
-						</div>
-					</div>
-				</nav>
-			</div>
-		</div>
-	</div>
-	  <x-header/>
 	
-	<!-- Start Page Title Section -->
+	  <x-header/>
 	<div class="page-title-area item-bg3">
 		<div class="d-table">
 			<div class="d-table-cell">

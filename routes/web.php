@@ -22,12 +22,14 @@ Route::get('/about', function() {
 Route::get('/services', function () {
     return view('services');
 });
+
+Route::get('/services-3', function () {
+    return view('services-3');
+});
 Route::get('/blog', function () {
     return view('blog');
 });
 Route::get('/contact', function () {
     return view('contact');
 });
-Route::get('/', function () {
-    return view('index');
-});
+

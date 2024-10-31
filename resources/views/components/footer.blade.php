@@ -99,7 +99,7 @@
                 <div class="footer-info-contact">
                   <i class="flaticon-phone-call"></i>
                   <h3>Phone</h3>
-                  <span><a href="tel:+251972440885">+251972440885</a></span>
+                  <span><a href="tel:+251972440885">+251972440885</a></span><br>
                   <span><a href="tel:+251929275445"> +251929275445</a></span>
                 </div>
                 <div class="footer-info-contact">
@@ -107,7 +107,7 @@
                   <h3>Email</h3>
                   <span
                     ><a href="mailto:andalussoftwares@gmail.com"
-                      >andalussoftwares@gmail.com"</a
+                      >andalussoftwares@gmail.com</a
                     ></span
                   >
                 </div>
