@@ -105,7 +105,7 @@
                   <i class="flaticon-location text-success fs-1"></i>
                 </div>
                 <div>
-                  <p class="fw-bold">Dessie, Piassa</p>
+                  <p class="fw-bold">Dessie, B/wuha</p>
                   <p class="fw-bold">Ethiopia</p>
                 </div>
               </div>
@@ -155,10 +155,11 @@
               <form
                 id="contact-form"
                 class="contact-form form"
-                action="https://cutesolution.com/html/techvio/phpmails.php"
                 method="POST"
+                action="{{ route('contact')}}"
               >
-                <div class="row">
+                <div class="row" >
+                  @csrf
                   <div class="col-lg-6 col-md-6">
                     <div class="form-group">
                       <input
