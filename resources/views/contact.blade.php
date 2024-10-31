@@ -9,7 +9,8 @@
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
     <!-- Title -->
-    <title>Andalus Sofwares - IT Solutions & Business Services</title>
+    <title>Andalus Sofwares - IT Solutions & Business Services Company
+</title>
 
     <!-- Google Fonts -->
     <link
