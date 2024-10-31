@@ -281,7 +281,7 @@
 	</section>
 	<!-- End Overview Section -->
 	
-  
+  <x-footer/>
 	
 	<!-- jQuery Min JS -->
 	<script src="assets/js/jquery.min.js"></script>
