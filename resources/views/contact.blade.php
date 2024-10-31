@@ -142,7 +142,7 @@
 
     <!-- Start Contact Section -->
     <div class="contact-section section-padding">
-      <div class="container">
+      <div class="container" id="contact">
         <div class="section-title">
           <h6 class="sub-title">Let's Talk</h6>
           <h2>Contact Us</h2>

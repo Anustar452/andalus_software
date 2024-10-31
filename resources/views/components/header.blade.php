@@ -45,7 +45,7 @@
                             </li>
                         </ul>
                         <div class="other-option">
-                            <a class="default-btn" href="mailto:demo@example.com">Get It Support <span></span></a>
+                            <a class="default-btn" href="contact#contact">Get It Support <span></span></a>
                         </div>
                     </div>
                 </nav>
