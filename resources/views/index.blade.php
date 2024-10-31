@@ -85,10 +85,10 @@
                     integrated IT solutions and business services for success.
                   </p>
                   <div class="banner-btn">
-                    <a class="default-btn-one" href="services.html"
+                    <a class="default-btn-one" href="services"
                       >Our Service <span></span
                     ></a>
-                    <a class="default-btn-two" href="contact.html"
+                    <a class="default-btn-two" href="contact"
                       >Contact Us <span></span
                     ></a>
                   </div>
@@ -146,7 +146,7 @@
                 Development Solutions.
               </p>
               <div class="services-btn">
-                <a href="services.html" class="read-more"
+                <a href="services" class="read-more"
                   ><i class="bi bi-arrow-right-short"></i> Read More</a
                 >
               </div>
@@ -163,7 +163,7 @@
                 development services.
               </p>
               <div class="services-btn">
-                <a href="services.html" class="read-more"
+                <a href="services" class="read-more"
                   ><i class="bi bi-arrow-right-short"></i> Read More</a
                 >
               </div>
@@ -180,7 +180,7 @@
                 with bespoke desktop software.
               </p>
               <div class="services-btn">
-                <a href="services.html" class="read-more"
+                <a href="services" class="read-more"
                   ><i class="bi bi-arrow-right-short"></i> Read More</a
                 >
               </div>
@@ -197,7 +197,7 @@
                 efficiency and growth.
               </p>
               <div class="services-btn">
-                <a href="services.html" class="read-more"
+                <a href="services" class="read-more"
                   ><i class="bi bi-arrow-right-short"></i> Read More</a
                 >
               </div>
@@ -215,7 +215,7 @@
                 curriculum, and mentorship from experienced developers.
               </p>
               <div class="services-btn">
-                <a href="services.html" class="read-more"
+                <a href="services" class="read-more"
                   ><i class="bi bi-arrow-right-short"></i> Read More</a
                 >
               </div>
@@ -261,7 +261,7 @@
                 </div>
               </div>
               <div class="about-btn-box">
-                <a class="default-btn" href="about.html"
+                <a class="default-btn" href="about"
                   >Learn More <span></span
                 ></a>
               </div>
@@ -653,7 +653,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="blog-single-item">
               <div class="blog-image">
-                <a href="single-blog.html">
+                <a href="single-blog">
                   <img src="assets/img/blog/blog-1.jpg" alt="image" />
                 </a>
               </div>
@@ -670,7 +670,7 @@
                 </ul>
                 <div class="blog-text">
                   <h3>
-                    <a href="single-blog.html">
+                    <a href="single-blog">
                       Planning for a Safe Return to the Workplace IT Solutions
                     </a>
                   </h3>
@@ -679,7 +679,7 @@
                     eiusmod tempor incididunt ut labore dolore magna aliqua
                   </p>
                   <div class="blog-btn">
-                    <a href="single-blog.html" class="read-more"
+                    <a href="single-blog" class="read-more"
                       ><i class="bi bi-arrow-right-short"></i> Read More</a
                     >
                   </div>
@@ -690,7 +690,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="blog-single-item">
               <div class="blog-image">
-                <a href="single-blog.html">
+                <a href="single-blog">
                   <img src="assets/img/blog/blog-2.jpg" alt="image" />
                 </a>
               </div>
@@ -707,7 +707,7 @@
                 </ul>
                 <div class="blog-text">
                   <h3>
-                    <a href="single-blog.html">
+                    <a href="single-blog">
                       Announcing Our New Smiles for Success Charity
                     </a>
                   </h3>
@@ -716,7 +716,7 @@
                     eiusmod tempor incididunt ut labore dolore magna aliqua
                   </p>
                   <div class="blog-btn">
-                    <a href="single-blog.html" class="read-more"
+                    <a href="single-blog" class="read-more"
                       ><i class="bi bi-arrow-right-short"></i> Read More</a
                     >
                   </div>
@@ -727,7 +727,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="blog-single-item">
               <div class="blog-image">
-                <a href="single-blog.html">
+                <a href="single-blog">
                   <img src="assets/img/blog/blog-3.jpg" alt="image" />
                 </a>
               </div>
@@ -744,7 +744,7 @@
                 </ul>
                 <div class="blog-text">
                   <h3>
-                    <a href="single-blog.html">
+                    <a href="single-blog">
                       Machine Learning Applications for Every Industry
                     </a>
                   </h3>
@@ -753,7 +753,7 @@
                     eiusmod tempor incididunt ut labore dolore magna aliqua
                   </p>
                   <div class="blog-btn">
-                    <a href="single-blog.html" class="read-more"
+                    <a href="single-blog" class="read-more"
                       ><i class="bi bi-arrow-right-short"></i> Read More</a
                     >
                   </div>
@@ -782,7 +782,7 @@
                 <a class="default-btn" href="tel:+251972440885"
                   >Call Now<span></span
                 ></a>
-                <a class="default-btn-one" href="contact.html"
+                <a class="default-btn-one" href="contact"
                   >Contact Us<span></span
                 ></a>
               </div>
@@ -878,11 +878,11 @@
                   <h3>Useful Links</h3>
                 </div>
                 <ul class="footer-quick-links">
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="about.html">About Us</a></li>
+                  <li><a href="/">Home</a></li>
+                  <li><a href="about">About Us</a></li>
                   <li><a href="portfolio.html">Case Study</a></li>
-                  <li><a href="contact.html">Contact Us</a></li>
-                  <li><a href="services.html">Services</a></li>
+                  <li><a href="contact">Contact Us</a></li>
+                  <li><a href="services">Services</a></li>
                 </ul>
               </div>
             </div>

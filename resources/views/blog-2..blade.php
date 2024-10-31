@@ -54,7 +54,7 @@
 					<div class="page-title-content">
 						<h2>Blog Right Sidebar</h2>
 						<ul>
-							<li><a href="index-2.html">Home</a></li>
+							<li><a href="/">Home</a></li>
 							<li>Blog Right Sidebar</li>
 						</ul>
 					</div>
@@ -73,7 +73,7 @@
 						<div class="col-lg-6 col-md-6">
 							<div class="blog-single-item">
 								<div class="blog-image">
-									<a href="single-blog.html">
+									<a href="single-blog">
 										<img src="assets/img/blog/blog-1.jpg" alt="image">
 									</a>
 								</div>
@@ -88,13 +88,13 @@
 									</ul>
 									<div class="blog-text">
 										<h3>
-											<a href="single-blog.html">
+											<a href="single-blog">
 												Planning for a Safe Return to the Workplace IT Solutions
 											</a>
 										</h3>
 										<p>Lorem ipsum dolor sit amet, consectetu adipiscing elit, sed eiusmod tempor incididunt ut labore dolore magna aliqua</p>
 										<div class="blog-btn">
-											<a href="single-blog.html" class="read-more"><i class="bi bi-arrow-right-short"></i> Read More</a>
+											<a href="single-blog" class="read-more"><i class="bi bi-arrow-right-short"></i> Read More</a>
 										</div>
 									</div>
 								</div>
@@ -103,7 +103,7 @@
 						<div class="col-lg-6 col-md-6">
 							<div class="blog-single-item">
 								<div class="blog-image">
-									<a href="single-blog.html">
+									<a href="single-blog">
 										<img src="assets/img/blog/blog-2.jpg" alt="image">
 									</a>
 								</div>
@@ -118,13 +118,13 @@
 									</ul>
 									<div class="blog-text">
 										<h3>
-											<a href="single-blog.html">
+											<a href="single-blog">
 											   Announcing Our New Smiles for Success Charity
 											</a>
 										</h3>
 										<p>Lorem ipsum dolor sit amet, consectetu adipiscing elit, sed eiusmod tempor incididunt ut labore dolore magna aliqua</p>
 										<div class="blog-btn">
-											<a href="single-blog.html" class="read-more"><i class="bi bi-arrow-right-short"></i> Read More</a>
+											<a href="single-blog" class="read-more"><i class="bi bi-arrow-right-short"></i> Read More</a>
 										</div>
 									</div>
 								</div>
@@ -133,7 +133,7 @@
 						<div class="col-lg-6 col-md-6">
 							<div class="blog-single-item">
 								<div class="blog-image">
-									<a href="single-blog.html">
+									<a href="single-blog">
 										<img src="assets/img/blog/blog-3.jpg" alt="image">
 									</a>
 								</div>
@@ -148,13 +148,13 @@
 									</ul>
 									<div class="blog-text">
 										<h3>
-											<a href="single-blog.html">
+											<a href="single-blog">
 												Machine Learning Applications for Every Industry
 											</a>
 										</h3>
 										<p>Lorem ipsum dolor sit amet, consectetu adipiscing elit, sed eiusmod tempor incididunt ut labore dolore magna aliqua</p>
 										<div class="blog-btn">
-											<a href="single-blog.html" class="read-more"><i class="bi bi-arrow-right-short"></i> Read More</a>
+											<a href="single-blog" class="read-more"><i class="bi bi-arrow-right-short"></i> Read More</a>
 										</div>
 									</div>
 								</div>
@@ -163,7 +163,7 @@
 						<div class="col-lg-6 col-md-6">
 							<div class="blog-single-item">
 								<div class="blog-image">
-									<a href="single-blog.html">
+									<a href="single-blog">
 										<img src="assets/img/blog/blog-4.jpg" alt="image">
 									</a>
 								</div>
@@ -178,13 +178,13 @@
 									</ul>
 									<div class="blog-text">
 										<h3>
-											<a href="single-blog.html">
+											<a href="single-blog">
 												5 Technology Considerations for Office Relocations
 											</a>
 										</h3>
 										<p>Lorem ipsum dolor sit amet, consectetu adipiscing elit, sed eiusmod tempor incididunt ut labore dolore magna aliqua</p>
 										<div class="blog-btn">
-											<a href="single-blog.html" class="read-more"><i class="bi bi-arrow-right-short"></i> Read More</a>
+											<a href="single-blog" class="read-more"><i class="bi bi-arrow-right-short"></i> Read More</a>
 										</div>
 									</div>
 								</div>
@@ -193,7 +193,7 @@
 						<div class="col-lg-6 col-md-6">
 							<div class="blog-single-item">
 								<div class="blog-image">
-									<a href="single-blog.html">
+									<a href="single-blog">
 										<img src="assets/img/blog/blog-5.jpg" alt="image">
 									</a>
 								</div>
@@ -208,13 +208,13 @@
 									</ul>
 									<div class="blog-text">
 										<h3>
-											<a href="single-blog.html">
+											<a href="single-blog">
 											   Everything you need to know about geo-blocking
 											</a>
 										</h3>
 										<p>Lorem ipsum dolor sit amet, consectetu adipiscing elit, sed eiusmod tempor incididunt ut labore dolore magna aliqua</p>
 										<div class="blog-btn">
-											<a href="single-blog.html" class="read-more"><i class="bi bi-arrow-right-short"></i> Read More</a>
+											<a href="single-blog" class="read-more"><i class="bi bi-arrow-right-short"></i> Read More</a>
 										</div>
 									</div>
 								</div>
@@ -223,7 +223,7 @@
 						<div class="col-lg-6 col-md-6">
 							<div class="blog-single-item">
 								<div class="blog-image">
-									<a href="single-blog.html">
+									<a href="single-blog">
 										<img src="assets/img/blog/blog-6.jpg" alt="image">
 									</a>
 								</div>
@@ -238,13 +238,13 @@
 									</ul>
 									<div class="blog-text">
 										<h3>
-											<a href="single-blog.html">
+											<a href="single-blog">
 												Internal or outsourced IT: What’s the best choice?
 											</a>
 										</h3>
 										<p>Lorem ipsum dolor sit amet, consectetu adipiscing elit, sed eiusmod tempor incididunt ut labore dolore magna aliqua</p>
 										<div class="blog-btn">
-											<a href="single-blog.html" class="read-more"><i class="bi bi-arrow-right-short"></i> Read More</a>
+											<a href="single-blog" class="read-more"><i class="bi bi-arrow-right-short"></i> Read More</a>
 										</div>
 									</div>
 								</div>
@@ -409,9 +409,9 @@
 								<h3>Useful Links</h3>
 							</div>
 							<ul class="footer-quick-links">
-								<li><a href="about.html">About Us</a></li>
+								<li><a href="about">About Us</a></li>
 								<li><a href="portfolio.html">Case Study</a></li>
-								<li><a href="contact.html">Contact Us</a></li>
+								<li><a href="contact">Contact Us</a></li>
 								<li><a href="privacy-policy.html">Privacy Policy</a></li>
 								<li><a href="terms-condition.html">Terms & Conditions</a></li>
 							</ul>

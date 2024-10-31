@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
-  <!-- Mirrored from cutesolution.com/html/techvio/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Mar 2024 09:35:15 GMT -->
+  <!-- Mirrored from cutesolution.com/html/techvio/contact by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Mar 2024 09:35:15 GMT -->
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8" />
@@ -59,7 +59,7 @@
             <div class="page-title-content">
               <h2>Contact</h2>
               <ul>
-                <li><a href="index-2.html">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <li>Contact</li>
               </ul>
             </div>
@@ -335,11 +335,11 @@
                   <h3>Useful Links</h3>
                 </div>
                 <ul class="footer-quick-links">
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="about.html">About Us</a></li>
+                  <li><a href="/">Home</a></li>
+                  <li><a href="about">About Us</a></li>
                   <li><a href="portfolio.html">Case Study</a></li>
-                  <li><a href="contact.html">Contact Us</a></li>
-                  <li><a href="services.html">Services</a></li>
+                  <li><a href="contact">Contact Us</a></li>
+                  <li><a href="services">Services</a></li>
                 </ul>
               </div>
             </div>
@@ -432,5 +432,5 @@
     <script src="assets/js/main.js"></script>
   </body>
 
-  <!-- Mirrored from cutesolution.com/html/techvio/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Mar 2024 09:35:15 GMT -->
+  <!-- Mirrored from cutesolution.com/html/techvio/contact by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Mar 2024 09:35:15 GMT -->
 </html>

@@ -64,7 +64,7 @@
         <div class="container">
           <div class="techvio-responsive-menu">
             <div class="logo">
-              <a href="index.html">
+              <a href="/">
                 <img src="assets/img/logo.png" width="171" alt="logo" />
                 <img
                   src="assets/img/logo-black.png"
@@ -79,7 +79,7 @@
       <div class="techvio-nav">
         <div class="container">
           <nav class="navbar navbar-expand-md navbar-light">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="/">
               <img src="assets/img/logo.png" class="white-logo" alt="logo" />
               <img
                 src="assets/img/logo-black.png"
@@ -93,20 +93,20 @@
             >
               <ul class="navbar-nav">
                 <li class="nav-item">
-                  <a href="index.html" class="nav-link">Home </a>
+                  <a href="/" class="nav-link">Home </a>
                 </li>
                 <li class="nav-item">
-                  <a href="about.html" class="nav-link">About Us</a>
+                  <a href="about" class="nav-link">About Us</a>
                 </li>
                 <li class="nav-item">
-                  <a href="services.html" class="nav-link">Services</a>
+                  <a href="services" class="nav-link">Services</a>
                 </li>
 
                 <li class="nav-item">
-                  <a href="blog.html" class="nav-link">Blog </a>
+                  <a href="blog" class="nav-link">Blog </a>
                 </li>
                 <li class="nav-item">
-                  <a href="contact.html" class="nav-link">Contact</a>
+                  <a href="contact" class="nav-link">Contact</a>
                 </li>
               </ul>
               <div class="other-option">
@@ -129,7 +129,7 @@
             <div class="page-title-content">
               <h2>Portfolios Details</h2>
               <ul>
-                <li><a href="index-2.html">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <li>Portfolios Details</li>
               </ul>
             </div>
@@ -308,9 +308,9 @@
                   <h3>Useful Links</h3>
                 </div>
                 <ul class="footer-quick-links">
-                  <li><a href="about.html">About Us</a></li>
+                  <li><a href="about">About Us</a></li>
                   <li><a href="portfolio.html">Case Study</a></li>
-                  <li><a href="contact.html">Contact Us</a></li>
+                  <li><a href="contact">Contact Us</a></li>
                   <li><a href="privacy-policy.html">Privacy Policy</a></li>
                   <li><a href="terms-condition.html">Terms & Conditions</a></li>
                 </ul>

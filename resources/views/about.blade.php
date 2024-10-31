@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
-  <!-- Mirrored from cutesolution.com/html/techvio/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Mar 2024 09:35:05 GMT -->
+  <!-- Mirrored from cutesolution.com/html/techvio/about by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Mar 2024 09:35:05 GMT -->
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8" />
@@ -57,7 +57,7 @@
             <div class="page-title-content">
               <h2>About Us</h2>
               <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <li>About Us</li>
               </ul>
             </div>
@@ -153,7 +153,7 @@
                 </div>
               </div>
               <div class="about-btn-box">
-                <a class="default-btn" href="about.html"
+                <a class="default-btn" href="about"
                   >Learn More <span></span
                 ></a>
               </div>
@@ -321,7 +321,7 @@
                 <a class="default-btn" href="tel:+251972440885"
                   >Call Now<span></span
                 ></a>
-                <a class="default-btn-one" href="contact.html"
+                <a class="default-btn-one" href="contact"
                   >Contact Us<span></span
                 ></a>
               </div>
@@ -475,11 +475,11 @@
                   <h3>Useful Links</h3>
                 </div>
                 <ul class="footer-quick-links">
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="about.html">About Us</a></li>
+                  <li><a href="/">Home</a></li>
+                  <li><a href="about">About Us</a></li>
                   <li><a href="portfolio.html">Case Study</a></li>
-                  <li><a href="contact.html">Contact Us</a></li>
-                  <li><a href="services.html">Services</a></li>
+                  <li><a href="contact">Contact Us</a></li>
+                  <li><a href="services">Services</a></li>
                 </ul>
               </div>
             </div>
@@ -571,5 +571,5 @@
     <script src="assets/js/main.js"></script>
   </body>
 
-  <!-- Mirrored from cutesolution.com/html/techvio/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Mar 2024 09:35:05 GMT -->
+  <!-- Mirrored from cutesolution.com/html/techvio/about by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Mar 2024 09:35:05 GMT -->
 </html>

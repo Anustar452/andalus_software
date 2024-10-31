@@ -49,4 +49,3 @@
             </div>
         </div>
     </div>
-      <x-header/>

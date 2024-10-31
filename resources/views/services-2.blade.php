@@ -55,7 +55,7 @@
 			<div class="container">
 				<div class="techvio-responsive-menu">
 					<div class="logo">
-						<a href="index-2.html">
+						<a href="/">
 							<img src="assets/img/logo.png" class="white-logo" alt="logo">
 							<img src="assets/img/logo-black.png" class="black-logo" alt="logo">
 						</a>
@@ -66,7 +66,7 @@
 		<div class="techvio-nav">
 			<div class="container">
 				<nav class="navbar navbar-expand-md navbar-light">
-					<a class="navbar-brand" href="index-2.html">
+					<a class="navbar-brand" href="/">
 						<img src="assets/img/logo.png" class="white-logo" alt="logo">
 						<img src="assets/img/logo-black.png" class="black-logo" alt="logo">
 					</a>
@@ -76,33 +76,33 @@
 								<a href="#" class="nav-link">Home <i class="fas fa-chevron-down"></i></a>
 								<ul class="dropdown-menu">
 									<li class="nav-item"> 
-										<a href="index-2.html" class="nav-link">Home 1</a>
+										<a href="/" class="nav-link">Home 1</a>
 									</li>
 									<li class="nav-item"> 
-										<a href="index-3.html" class="nav-link">Home 2</a>
+										<a href="/" class="nav-link">Home 2</a>
 									</li>
 									<li class="nav-item"> 
-										<a href="index-4.html" class="nav-link">Home 3</a>
+										<a href="/" class="nav-link">Home 3</a>
 									</li>
 									<li class="nav-item"> 
 										<a href="index-5.html" class="nav-link">Home 4</a>
 									</li>
 									<li class="nav-item"> 
-										<a href="index-6.html" class="nav-link">Home 5</a>
+										<a href="/" class="nav-link">Home 5</a>
 									</li>
 									<li class="nav-item"> 
-										<a href="index-7.html" class="nav-link">Home 6</a>
+										<a href="/" class="nav-link">Home 6</a>
 									</li>
 								</ul>
 							</li>
 							<li class="nav-item">
-								<a href="about.html" class="nav-link">About Us</a>
+								<a href="about" class="nav-link">About Us</a>
 							</li>
 							<li class="nav-item">
 								<a href="#" class="nav-link">Services <i class="fas fa-chevron-down"></i></a>
 								<ul class="dropdown-menu">
 									<li class="nav-item"> 
-										<a href="services.html" class="nav-link">Services 1</a>
+										<a href="services" class="nav-link">Services 1</a>
 									</li>
 									<li class="nav-item"> 
 										<a href="services-2.html" class="nav-link">Services 2</a>
@@ -111,7 +111,7 @@
 										<a href="services-3.html" class="nav-link">Services 3</a>
 									</li>
 									<li class="nav-item"> 
-										<a href="single-services.html" class="nav-link">Services Details</a>
+										<a href="single-services" class="nav-link">Services Details</a>
 									</li>
 								</ul>
 							</li>
@@ -130,7 +130,7 @@
 								<a href="#" class="nav-link">Pages <i class="fas fa-chevron-down"></i></a>
 								<ul class="dropdown-menu">
 									<li class="nav-item">
-										<a href="about.html" class="nav-link">About Us</a>
+										<a href="about" class="nav-link">About Us</a>
 									</li>
 									<li class="nav-item">
 										<a href="team.html" class="nav-link">Team</a>
@@ -159,18 +159,18 @@
 								<a href="#" class="nav-link">Blog <i class="fas fa-chevron-down"></i></a>
 								<ul class="dropdown-menu">
 									<li class="nav-item">
-										<a href="blog.html" class="nav-link">Blog Grid</a>
+										<a href="blog" class="nav-link">Blog Grid</a>
 									</li>
 									<li class="nav-item">
 										<a href="blog-2.html" class="nav-link">Blog Right Sidebar</a>
 									</li>
 									<li class="nav-item">
-										<a href="single-blog.html" class="nav-link">Blog Details</a>
+										<a href="single-blog" class="nav-link">Blog Details</a>
 									</li>
 								</ul>
 							</li>
 							<li class="nav-item">
-								<a href="contact.html" class="nav-link">Contact</a>
+								<a href="contact" class="nav-link">Contact</a>
 							</li>
 						</ul>
 						<div class="other-option">
@@ -191,7 +191,7 @@
 					<div class="page-title-content">
 						<h2>Services</h2>
 						<ul>
-							<li><a href="index-2.html">Home</a></li>
+							<li><a href="/">Home</a></li>
 							<li>Services 2</li>
 						</ul>
 					</div>
@@ -335,7 +335,7 @@
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud consectetur voluptatem accusantium doloremque adipiscing elit.</p>
 						<div class="hire-btn">
 							<a class="default-btn" href="tel:12345678">Call Now<span></span></a>
-							<a class="default-btn-one" href="contact.html">Contact Us<span></span></a>
+							<a class="default-btn-one" href="contact">Contact Us<span></span></a>
 						</div>
 					</div>
 				</div>
@@ -470,9 +470,9 @@
 								<h3>Useful Links</h3>
 							</div>
 							<ul class="footer-quick-links">
-								<li><a href="about.html">About Us</a></li>
+								<li><a href="about">About Us</a></li>
 								<li><a href="portfolio.html">Case Study</a></li>
-								<li><a href="contact.html">Contact Us</a></li>
+								<li><a href="contact">Contact Us</a></li>
 								<li><a href="privacy-policy.html">Privacy Policy</a></li>
 								<li><a href="terms-condition.html">Terms & Conditions</a></li>
 							</ul>
