@@ -375,7 +375,7 @@
     </div>
     <!-- End Go Top Section -->
 
-    <!-- jQuery Min JS -->
+    <x-footer/>
     <script src="assets/js/jquery.min.js"></script>
     <!-- Popper Min JS -->
     <script src="assets/js/popper.min.js"></script>

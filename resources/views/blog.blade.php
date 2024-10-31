@@ -49,7 +49,7 @@
     <!-- Start Preloader Section -->
       
     <!-- End Navbar Section -->
-
+    <x-header/>
     <!-- Start Page Title Section -->
     <div class="page-title-area item-bg1">
       <div class="d-table">
@@ -467,7 +467,7 @@
     </div>
     <!-- End Go Top Section -->
 
-    <!-- jQuery Min JS -->
+    <x-footer/>
     <script src="assets/js/jquery.min.js"></script>
     <!-- Popper Min JS -->
     <script src="assets/js/popper.min.js"></script>
