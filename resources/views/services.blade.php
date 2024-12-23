@@ -88,8 +88,8 @@
                 Stop Wasting Time. Build Software That Solves Your Unique Needs.
               </p>
               <div class="services-btn">
-                <a href="#" class="read-more"
-                  ><i class="bi bi-arrow-right-short"></i> Read More</a
+                <a href="contact#contact" class="read-more"
+                  ><i class="bi bi-arrow-right-short"></i> Contact us</a
                 >
               </div>
             </div>
@@ -105,8 +105,8 @@
                 Development Solutions.
               </p>
               <div class="services-btn">
-                <a href="#" class="read-more"
-                  ><i class="bi bi-arrow-right-short"></i> Read More</a
+                <a href="contact#contact" class="read-more"
+                  ><i class="bi bi-arrow-right-short"></i> Contact us</a
                 >
               </div>
             </div>
@@ -122,8 +122,8 @@
                 development services.
               </p>
               <div class="services-btn">
-                <a href="#" class="read-more"
-                  ><i class="bi bi-arrow-right-short"></i> Read More</a
+                <a href="contact#contact" class="read-more"
+                  ><i class="bi bi-arrow-right-short"></i> Contact us</a
                 >
               </div>
             </div>
@@ -139,8 +139,8 @@
                 with bespoke desktop software.
               </p>
               <div class="services-btn">
-                <a href="#" class="read-more"
-                  ><i class="bi bi-arrow-right-short"></i> Read More</a
+                <a href="contact#contact" class="read-more"
+                  ><i class="bi bi-arrow-right-short"></i> Contact us</a
                 >
               </div>
             </div>
@@ -156,8 +156,8 @@
                 efficiency and growth.
               </p>
               <div class="services-btn">
-                <a href="#" class="read-more"
-                  ><i class="bi bi-arrow-right-short"></i> Read More</a
+                <a href="contact#contact" class="read-more"
+                  ><i class="bi bi-arrow-right-short"></i> Contact us</a
                 >
               </div>
             </div>
@@ -174,8 +174,8 @@
                 hidden SEO opportunities.
               </p>
               <div class="services-btn">
-                <a href="#" class="read-more"
-                  ><i class="bi bi-arrow-right-short"></i> Read More</a
+                <a href="contact#contact" class="read-more"
+                  ><i class="bi bi-arrow-right-short"></i> Contact us</a
                 >
               </div>
             </div>
